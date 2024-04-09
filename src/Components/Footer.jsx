@@ -1,4 +1,4 @@
-import { faFacebook, faInstagram, faInstagramSquare, faTwitter, faTwitterSquare, faYoutube, faYoutubeSquare } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faInstagramSquare, faTwitterSquare, faYoutubeSquare } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react'
 

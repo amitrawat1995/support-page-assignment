@@ -1,6 +1,6 @@
 
-import { faGlobe,faGear,faUser,faBars,faCode,faTriangleExclamation,faBolt, faChartSimple, faPersonCircleQuestion, faMobile, faCartShopping, faFileInvoiceDollar } from '@fortawesome/free-solid-svg-icons';
-import { faCircle,faCircleQuestion,faCircleXmark,faEnvelopeOpen, faFontAwesome, faPenToSquare } from '@fortawesome/free-regular-svg-icons';
+import { faGlobe,faGear,faBars,faCode,faTriangleExclamation,faBolt, faChartSimple, faPersonCircleQuestion, faMobile, faCartShopping, faFileInvoiceDollar } from '@fortawesome/free-solid-svg-icons';
+import { faCircleQuestion,faCircleXmark,faEnvelopeOpen, faFontAwesome, faPenToSquare } from '@fortawesome/free-regular-svg-icons';
 import { faReadme, faSearchengin, faWpforms } from '@fortawesome/free-brands-svg-icons';
 
 export default [
