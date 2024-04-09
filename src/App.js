@@ -3,6 +3,7 @@ import Header from './Components/Header';
 import Search from './Components/Search';
 import MainSection from './Components/MainSection';
 import MasterDetailGrid from './Components/MasterDetail';
+import Footer from './Components/Footer.jsx';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <Header/>
       <Search/>
       <MainSection/>
-      <MasterDetailGrid/>
+      <Footer/>
     </div>
   );
 }
